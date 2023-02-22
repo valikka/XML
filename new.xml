@@ -1,8 +1,6 @@
-{       
-	"First name":"Valentina",
-	"Last name":"Ivanova",
-	"Age":"30",
-	"Quantity of pets":"0"
-        "Desired salary":"2000$"
-
-} 
+<?xml version="1.0" encoding="UTF-8 ?>
+<First_name>Valentina</First_name>
+<Last_name>Ivanova</Last_name>
+<Age>30</Age>
+<pet null="true"/>
+<Desired salary>2000$</Desired salary>
