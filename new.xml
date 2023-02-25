@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8 ?>
-<First_name>Valentina</First_name>
-<Last_name>Ivanova</Last_name>
-<Age>30</Age>
-<pet null="true"/>
-<Desired salary>2000$</Desired salary>
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<First_name>Valentina</First_name>
+	<Last_name>Ivanova</Last_name>
+	<Age>30</Age>
+	<Quantity_of_pets>0</Quantity_of_pets>
+	<Desired_salary>2000$</Desired_salary>
+</root>
