@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Skills,_that_I_will_operate_after_this_course>
+<Skills_that_I_will_operate_after_this_course>
   <1>Testing theory</1>
   <2>Theory of client server architecture</2>
   <3>SQL basics</3>
   <4>Mobile testing</4>
   <5>Sniffing http web traffic via Charles and Fiddler etc</5>
-</Skills,_that_I_will_operate_after_this_course>
+</Skills_that_I_will_operate_after_this_course>
